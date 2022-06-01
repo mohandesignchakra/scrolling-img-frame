@@ -1,0 +1,11 @@
+The other day I was browsing and found an awesome article by Jurn van Wissen at css-tricks.com. I loved it, and decided to record a video tutorial. The article is about how to create fancy scrolling animation used on Apple product pages.
+
+Here's the article: https://css-tricks.com/lets-make-one-...
+
+Jurn van Wissen website http://jurn.io
+
+Jurn's code: https://codepen.io/j-v-w/pen/ZEbGzyv
+
+Thanks to css-tricks.com and Jurn for all the great content.
+
+*The images used in this video are owned by Apple Inc.
